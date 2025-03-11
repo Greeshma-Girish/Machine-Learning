@@ -51,18 +51,18 @@ python main.py
 
 Since the dataset includes a **target column (Outcome: 0 = No Diabetes, 1 = Diabetes)**, it is best suited for **classification algorithms**. These models analyze key health indicators such as glucose levels, blood pressure, BMI, and heart disease status to predict diabetes risk effectively.  
 
-### ✅ **Top Performing Algorithms**  
+###  **Top Performing Algorithms**  
 - **📊 Logistic Regression** – Provided a strong baseline performance with high interpretability.  
 - **📌 K-Nearest Neighbors (KNN)** – Performed well with clear patterns in the data but may be slower with large datasets.  
 - **📈 Naïve Bayes** – Efficient and fast, though it assumes feature independence, which may not always hold.  
 - **🌳 Decision Trees** – Captured complex relationships but prone to overfitting without pruning.  
 - **🔍 Clustering (e.g., K-Means)** – Helped identify groups of individuals based on similar health metrics but isn’t used for direct classification.   
 
-### 🚀 **Final Verdict**  
+### 🚀 **Final Conclusion**  
  KNN Classification is the best-performing algorithm for diabetes prediction, offering high accuracy and robustness.
 The final choice should be based on evaluation metrics such as **accuracy, precision, recall, and AUC-ROC scores** to ensure the best fit for the dataset.  
 
 
-✨ *Choose the right algorithm based on your project needs!* 🚀  
+ *Choose the right algorithm based on your project needs!*   
 
 
